@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Travel Website</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.min.js"></script>
+    <script src="WT_MiniProject_SPA.js"></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+
+
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+    <link rel="stylesheet" href="WT_MiniProject_SPA.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet" />
+</head>
+
+<body ng-app="myApp">
+
+    <!--header-->
+        <header>
+            <a href="#!icon" class="logo">Travel</a>
+            <div class="bx bx-menu" id="menu-icon"></div>
+
+            <ul class="navbar">
+                <li><a href="#!home"> Home </a></li>
+                <li><a href="#!package"> Package </a></li>
+                <li><a href="#!destination"> Destination </a></li>
+                <li><a href="#!branches"> Branches </a></li>
+            </ul>
+        </header>
+
+    <!--Home section-->
+    <div class="home" id="home"></div>
+    <br>
+    <div ng-view></div> <!--The dynamic view : via ngRoute-->
+
+    <!--Footer-->
+    <section id="contact">
+        <div class="footer">
+            <div class="main">
+                <div class="list">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="https://tourism.gov.in/terms-and-conditions"> Terms & Conditions</a></li>
+                        <li><a href="https://bottindia.com/privacy-policy/"> Privacy Policy</a></li>
+                        <li><a href="https://www.india.gov.in/topics/travel-tourism"> Help </a></li>
+                        <li><a href="https://tourism.gov.in/"> Tour </a></li>
+                    </ul>
+                </div>
+
+                <div class="list">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li><a> 98 West 21th Street</a></li>
+                        <li><a> New York 10016 </a></li>
+                        <li><a> +1(123)-546-578 </a></li>
+                        <li><a href="https://www.google.com/gmail/about/"> travel_guide@gmail.com </a></li>
+                    </ul>
+                </div>
+
+                <div class="list">
+                    <h4>Connect</h4>
+                    <div class="social">
+                        <a href="https://www.facebook.com/"><box-icon type='logo' name='meta'></box-icon></a>
+                        <a href="https://www.instagram.com/"><box-icon type='logo' name='instagram'></box-icon></a>
+                        <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D">
+                        <box-icon name='twitter' type='logo'></box-icon></a>
+                        <a href="https://in.linkedin.com/"><box-icon type='logo' name='linkedin'></box-icon></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="end-text">
+            <p>Copyright @2023 All rights reserved | Sayli Rajendra Dholam</p>
+        </div>
+    </section>
+
+</body>
+
+</html>
