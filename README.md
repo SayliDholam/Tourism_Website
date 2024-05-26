@@ -24,7 +24,7 @@ A Single Page Application (SPA) is a web application or website that interacts w
 
 2. Rendering: <br/>JavaScript frameworks like React, Angular, or Vue.js handle the rendering of the user interface in the browser.
 
-3. Data Fetching: <br/>Data is fetched asynchronously from the server via APIs, typically using AJAX or fetch.
+3. Data Fetching: <br/>Data is fetched asynchronously from the server.
 
 4. Client-Side Routing: <br/>Navigation within the application is managed on the client-side without full page reloads.
 
