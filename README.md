@@ -13,8 +13,6 @@ Generated on button click via ngRoute command, includes 5 routing links:
  
 - Footer, Copyright & Owner name  :  <br/>
 Includes external non routing hyperlink references
-
-
 <br/>
 
 ## What is SPA: 
