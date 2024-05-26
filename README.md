@@ -67,4 +67,27 @@ A Single Page Application (SPA) is a web application or website that interacts w
 ![footer](footer.jpg)
 <br/>*Footer*
 
+<br/>
 
+![travel_route](travel_route.jpg)
+<br/>*Travel section*
+
+<br/>
+
+![home_route](home_route.jpg)
+<br/>*Home section*
+
+<br/>
+
+![package_route](package_route.jpg)
+<br/>*Package section*
+
+<br/>
+
+![destination_route](destination_route.jpg)
+<br/>*Destination section*
+
+<br/>
+
+![branches_route](branches_route.jpg)
+<br/>*Branches section*
