@@ -51,8 +51,8 @@ A Single Page Application (SPA) is a web application or website that interacts w
    - Open your browser and navigate 
 
 <br/>
+<br/>
 
-## Website: 
 
 ![defaultview](defaultview.jpg)
 <br/>*Website default view*
