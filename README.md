@@ -59,3 +59,12 @@ A Single Page Application (SPA) is a web application or website that interacts w
 
 <br/>
 
+![header](header.jpg)
+<br/>*Header*
+
+<br/>
+
+![footer](footer.jpg)
+<br/>*Footer*
+
+
