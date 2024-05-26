@@ -9,7 +9,7 @@ Application) concept. It uses ngRoute for routing some of the pages.
 Default homepage background 
  
 - Dynamic div : <br/>
-Generated on button click via ngRoute command, includes 5 routing links:
+Generated on button click via ngRoute command, includes 5 routing links
  
 - Footer, Copyright & Owner name  :  <br/>
 Includes external non routing hyperlink references
