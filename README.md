@@ -1,7 +1,7 @@
 # Tourism_Website
 This is a website based on the travel & tourism theme which is developed using 
-html, css, JavaScript(angular js) which implements the SPA(Single Page 
-Application) concept. It uses ngRoute for routing some of the pages.  
+HTML, CSS, JavaScript(AngularJS) which implements the SPA(Single Page 
+Application) concept. It uses ngRoute for routing the pages.  
 <br/>
 
 ## Structure of the SPA: 
