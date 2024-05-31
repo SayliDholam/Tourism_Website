@@ -37,12 +37,12 @@ A Single Page Application (SPA) is a web application or website that interacts w
    - Run the installer and follow the prompts.
 
 2. **Verify the Installation**:
-   - Open Command Prompt or PowerShell and run node -v and npm -v.
+   - Open Command Prompt or PowerShell and run ```node -v``` and ```npm -v```.
 
 
 3. **Create a Simple Node.js Application**:
    - Set up a new project directory.
-   - Initialize the project with npm init -y.
+   - Initialize the project with ```npm init -y```.
    - Create an app.js file with the HTTP server code.
 
 
