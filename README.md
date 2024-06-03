@@ -4,7 +4,7 @@ HTML, CSS, JavaScript(AngularJS) which implements the SPA(Single Page
 Application) concept. It uses ngRoute for routing the pages.  
 <br/>
 
-## Structure of the SPA: 
+## Structure of this SPA Website: 
 - **Header** :<br/>
 Default homepage background 
  
